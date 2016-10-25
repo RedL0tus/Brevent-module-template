@@ -1,9 +1,9 @@
-id=template
-name=Template Module
+id=brevent_patch
+name=Brevent
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=KayMW
+description=A module that patch system file for Brevent
+support=https://github.com/RedL0tus/brevent-module-template
+donate=
 cacheModule=false
